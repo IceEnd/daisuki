@@ -1,4 +1,4 @@
-@font-face {
+﻿@font-face {
     font-family: 'fontello';
     src: url('../font/fontello.eot?84879735');
     src: url('../font/fontello.eot?84879735#iefix') format('embedded-opentype'),
@@ -104,6 +104,7 @@
 #pay_div{
     position: absolute;
     display: none;
+    width:270px;
     top: 50px;
     left: 0;
     padding: 15px;
